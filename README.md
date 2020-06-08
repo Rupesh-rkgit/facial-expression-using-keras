@@ -10,3 +10,7 @@ $ pip install pipenv
 $ pipenv install
 
 $python main.py or $ pipenv run python3 main.py
+
+
+
+make sure to instal flask,opencv,tensorflow as major dependencies.
