@@ -13,4 +13,4 @@ $python main.py or $ pipenv run python3 main.py
 
 
 
-make sure to instal flask,opencv,tensorflow as major dependencies.
+make sure to install flask,opencv,tensorflow as major dependencies.
